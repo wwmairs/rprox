@@ -1,0 +1,13 @@
+{
+    "name" : "rprox",
+    "version" : "1.0.0",
+    "description" : "a reverse proxy to get past rcn",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/wwmairs/rprox"
+    },
+    "dependencies" : {
+        "express" : "latest",
+        "express-http-proxy" : "latest"
+    }
+}

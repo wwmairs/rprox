@@ -1,0 +1,7 @@
+{
+  "name": "rprox",
+  "description": "a reverse proxy to get past rcn",
+  "repository": "https://github.com/wwmairs/rprox",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
